@@ -1,0 +1,29 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"cdnjs",
+		"Clipboard History",
+		"Comment-Snippets",
+		"CSSLint",
+		"FileDiffs",
+		"IndentGuides",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"LESS",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Prefixr",
+		"Sass",
+		"SideBarEnhancements",
+		"SourceTree",
+		"sublime-jslint",
+		"Theme - Nexus",
+		"Theme - Phoenix",
+		"TrailingSpaces",
+		"ZenCoding"
+	]
+}
